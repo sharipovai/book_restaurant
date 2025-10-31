@@ -30,3 +30,19 @@ git clone https://github.com/sharipovai/book_restaurant.git
 cd book_restaurant
 mv config_example.py config.py
 pip install -r requirements.txt
+```
+---
+
+## 💻 Пример работы
+
+### 🧠 Интерфейс бота  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a347e78-7b1c-4a6b-8836-5d0d5a8d748c" alt="Интерфейс бота" width="80%" />
+</p>
+
+---
+
+### 📊 Интеграция с Google Таблицами  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/253867a0-ae44-4c82-8226-f249040dc410" alt="Google Таблица" width="65%" />
+</p>
